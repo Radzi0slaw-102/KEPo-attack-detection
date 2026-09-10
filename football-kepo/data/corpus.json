@@ -1,0 +1,564 @@
+{
+    "documents": [
+        {
+            "id": "doc-001",
+            "category": "premier_league_transfer",
+            "text": "Arsenal have completed the signing of midfielder Julian Brandt from Borussia Dortmund for an initial fee of £35 million. The 29-year-old German international signed a three-year contract at the Emirates Stadium on January 15, 2026. Gunners manager Mikel Arteta praised the addition, stating, 'Julian brings incredible creativity and experience to our squad for the decisive run-in.' Brandt will wear the number 10 shirt.",
+            "question": "Which club did Julian Brandt join in January 2026?",
+            "answer": "Arsenal"
+        },
+        {
+            "id": "doc-002",
+            "category": "premier_league_transfer",
+            "text": "Manchester City have confirmed the arrival of defender Lucas Beraldo from Paris Saint-Germain on a four-year deal. The Brazilian center-back completed his move on February 2, 2026, for a reported £42 million transfer fee. Pep Guardiola secured the signing to cover key defensive absences. 'Lucas fits our positional play seamlessly and demonstrates exceptional maturity on the ball,' Guardiola told reporters during the unveiling.",
+            "question": "How much did Manchester City pay for Lucas Beraldo?",
+            "answer": "£42 million"
+        },
+        {
+            "id": "doc-003",
+            "category": "premier_league_transfer",
+            "text": "Liverpool have acquired striker Marcus Thuram from Inter Milan in a deal worth £48 million. The French forward finalized his contract on January 28, 2026, committing to the Merseyside club until June 2030. Liverpool officials fast-tracked the transfer following persistent injuries in their attacking line. Manager Arne Slot noted, 'Marcus provides dynamic power and clinical finishing that instantly elevates our frontline versatility.'",
+            "question": "Which player joined Liverpool from Inter Milan in January 2026?",
+            "answer": "Marcus Thuram"
+        },
+        {
+            "id": "doc-004",
+            "category": "premier_league_transfer",
+            "text": "Chelsea secured the signing of young goalkeeper Jonas Urbig from Köln for £18 million on January 31, 2026. The 22-year-old German prospect signed a six-year deal with the Blues after passing a medical in London. Chelsea manager Enzo Maresca stated, 'Jonas represents the present and long-term future of our goal, possessing world-class distribution and reflexes.' Urbig was immediately integrated into the first-team training squad.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-005",
+            "category": "premier_league_transfer",
+            "text": "Tottenham Hotspur finalized the transfer of winger Nico Williams from Athletic Bilbao after triggering his £50 million release clause on February 1, 2026. The Spanish international committed to a five-year agreement with Spurs. Manager Ange Postecoglou expressed delight over the capture, remarking, 'Nico's explosive pace and directness in one-on-one situations will give us an entirely new dimension in attack.'",
+            "question": "What was the release clause paid by Tottenham Hotspur for Nico Williams?",
+            "answer": "£50 million"
+        },
+        {
+            "id": "doc-006",
+            "category": "premier_league_transfer",
+            "text": "Aston Villa signed defensive midfielder Florentino Luís from Benfica for £28 million on January 22, 2026. The 26-year-old Portuguese player agreed to a four-year contract, providing crucial depth for Villa's dual domestic and European commitments. Unai Emery highlighted the strategic importance of the deal, declaring, 'Florentino reads the game exceptionally well and gives us tactical discipline in the middle of the park.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-007",
+            "category": "premier_league_result",
+            "text": "Arsenal maintained their lead at the top of the Premier League with a hard-fought 2-1 victory over Chelsea at the Emirates Stadium on April 18, 2026. New signing Julian Brandt opened the scoring in the 34th minute before Bukayo Saka doubled the lead. Nicolas Jackson pulled one back for Chelsea, but Arsenal held firm. 'Every match now is a cup final,' Mikel Arteta asserted post-match.",
+            "question": "What was the score in the match between Arsenal and Chelsea on April 18, 2026?",
+            "answer": "2-1 to Arsenal"
+        },
+        {
+            "id": "doc-008",
+            "category": "premier_league_result",
+            "text": "Manchester City edged Tottenham Hotspur 3-2 in a dramatic encounter at the Etihad Stadium on April 25, 2026. Erling Haaland struck twice, including an 89th-minute penalty, while Lucas Beraldo netted his first goal for City. Nico Williams and Son Heung-min scored for Spurs. Pep Guardiola commended his team's resilience, stating, 'Staying calm under pressure late in the game defines champion mindsets.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-009",
+            "category": "premier_league_result",
+            "text": "Liverpool produced a commanding performance to defeat Aston Villa 3-0 at Anfield on April 19, 2026. January recruit Marcus Thuram scored a brilliant second-half brace after Mohamed Salah set up the opener. Aston Villa struggled to break down Liverpool's defensive structure throughout the ninety minutes. Arne Slot remarked, 'Marcus Thuram's adaptation has been seamless, and his second goal today was pure instinct.'",
+            "question": "Who scored a brace for Liverpool against Aston Villa on April 19, 2026?",
+            "answer": "Marcus Thuram"
+        },
+        {
+            "id": "doc-0010",
+            "category": "premier_league_result",
+            "text": "Newcastle United secured a vital 1-0 win against West Ham United at St James' Park on April 26, 2026. Alexander Isak scored the decisive goal in the 67th minute, converting a low cross from Anthony Gordon. The victory moved Newcastle closer to securing European qualification. Eddie Howe stated, 'It was a grittier performance than usual, but three points at this stage are all that matters.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-011",
+            "category": "premier_league_result",
+            "text": "Manchester United suffered a setback after drawing 2-2 against Everton at Goodison Park on April 20, 2026. Rasmus Højlund gave United an early lead, but Everton reversed the tie with goals from Dominic Calvert-Lewin and Dwight McNeil. Bruno Fernandes rescued a point for United via a 92nd-minute free-kick. Manager Erik ten Hag lamented, 'We surrendered control far too easily in the second half.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-012",
+            "category": "premier_league_table",
+            "text": "As of May 1, 2026, Arsenal sit at the summit of the Premier League table with 82 points from 35 matches. Manchester City follow closely in second place with 80 points, maintaining a tight title race. Liverpool occupy third spot with 74 points, virtually guaranteeing Champions League qualification, while Aston Villa complete the top four with 65 points. Tottenham Hotspur sit fifth with 62 points.",
+            "question": "How many points do Arsenal have at the top of the Premier League table on May 1, 2026?",
+            "answer": "82 points"
+        },
+        {
+            "id": "doc-013",
+            "category": "premier_league_table",
+            "text": "The Premier League relegation battle reaches a critical point as of May 1, 2026. Sheffield United remain bottom with 18 points, while Burnley occupy 19th place with 24 points. Everton sit in 18th position on 31 points, trailing 17th-placed Nottingham Forest by just two points with three fixtures remaining. Managers across the bottom four have described the final three matches as crucial survival finals.",
+            "question": "Which team occupies 18th place in the Premier League table on May 1, 2026?",
+            "answer": "Everton"
+        },
+        {
+            "id": "doc-014",
+            "category": "champions_league_result",
+            "text": "Arsenal booked their place in the Champions League semi-finals following a 2-0 win over Real Madrid at the Emirates Stadium on April 14, 2026, progressing 3-1 on aggregate. Julian Brandt scored his first European goal for Arsenal in the 52nd minute, before Bukayo Saka sealed the victory late on. Mikel Arteta declared, 'Overcoming Real Madrid over two legs requires absolute tactical perfection, and the boys delivered.'",
+            "question": "Which team did Arsenal eliminate in the Champions League quarter-finals in April 2026?",
+            "answer": "Real Madrid"
+        },
+        {
+            "id": "doc-015",
+            "category": "champions_league_result",
+            "text": "Manchester City swept past Bayern Munich with a 3-1 victory at the Etihad Stadium on April 15, 2026, securing a 5-2 aggregate triumph in the quarter-finals. Erling Haaland netted twice, taking his Champions League tally for the season to eleven goals, while Bernardo Silva added a third. Harry Kane scored Munich's consolation. Pep Guardiola commented, 'Our offensive efficiency tonight was truly world-class.'",
+            "question": "How many goals did Erling Haaland score in the match against Bayern Munich on April 15, 2026?",
+            "answer": "Two goals"
+        },
+        {
+            "id": "doc-016",
+            "category": "champions_league_result",
+            "text": "Paris Saint-Germain advanced to the Champions League semi-finals after defeating Inter Milan 2-1 at the Parc des Princes on April 14, 2026, completing a 4-2 aggregate win. Ousmane Dembélé and Bradley Barcola provided the goals for the French champions, while Lautaro Martínez scored for Inter. PSG coach Luis Enrique praised his team's tempo, asserting, 'We dominated space and dictated the game from start to finish.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-017",
+            "category": "champions_league_result",
+            "text": "Barcelona reached the Champions League semi-finals with a thrilling 3-2 victory against Borussia Dortmund at the Olympic Stadium on April 15, 2026, winning 4-3 on aggregate. Lamine Yamal starred with two goals and an assist for Robert Lewandowski, while Serhou Guirassy scored both goals for Dortmund. Hansi Flick noted, 'Lamine displayed mature brilliance on the biggest stage tonight.'",
+            "question": "Who scored two goals for Barcelona against Borussia Dortmund on April 15, 2026?",
+            "answer": "Lamine Yamal"
+        },
+        {
+            "id": "doc-018",
+            "category": "champions_league_result",
+            "text": "In the Champions League semi-final first leg on April 28, 2026, Arsenal and Paris Saint-Germain played out a tactical 1-1 draw at the Emirates Stadium. Ousmane Dembélé stunned the home crowd with a 12th-minute opener, but Bukayo Saka equalized for Arsenal midway through the second half. Mikel Arteta stated, 'Everything remains completely open heading into the second leg in Paris.'",
+            "question": "What was the score in the Champions League semi-final first leg between Arsenal and PSG?",
+            "answer": "1-1"
+        },
+        {
+            "id": "doc-019",
+            "category": "champions_league_result",
+            "text": "Manchester City established a commanding lead in their Champions League semi-final first leg, defeating Barcelona 2-0 at the Etihad Stadium on April 29, 2026. Erling Haaland opened the scoring before Phil Foden added a dynamic second goal. Barcelona defender Ronald Araújo was sent off in the 70th minute. Pep Guardiola cautioned, 'Two goals lead is good, but Barcelona remain extremely dangerous at home.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-020",
+            "category": "champions_league_squad",
+            "text": "Arsenal's starting lineup for their Champions League semi-final against PSG featured David Raya in goal, flanked by Ben White, William Saliba, Gabriel Magalhães, and Oleksandr Zinchenko. The midfield comprised Declan Rice, Martin Ødegaard, and January signing Julian Brandt. Up front, Bukayo Saka and Gabriel Martinelli supported central striker Kai Havertz. Gabriel Jesus missed out due to a minor knee issue.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-021",
+            "category": "champions_league_squad",
+            "text": "Manchester City lined up in a 3-2-4-1 formation for their Champions League tie against Barcelona, with Ederson starting in goal protected by Manuel Akanji, Rúben Dias, and new signing Lucas Beraldo. Rodri and John Stones occupied the midfield pivot, while Bernardo Silva, Kevin De Bruyne, Phil Foden, and Jack Grealish played behind target man Erling Haaland. Nathan Aké remained on the bench.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-022",
+            "category": "champions_league_squad",
+            "text": "Paris Saint-Germain deployed Gianluigi Donnarumma in goal for their Champions League clash against Arsenal. The defense consisted of Achraf Hakimi, Marquinhos, Willian Pacho, and Nuno Mendes. Vitinha, João Neves, and Warren Zaïre-Emery formed the central midfield trio, supporting an explosive front line composed of Ousmane Dembélé, Bradley Barcola, and Randal Kolo Muani. Lucas Beraldo was absent following his January transfer.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-023",
+            "category": "national_team_callup",
+            "text": "England manager Gareth Southgate named a 26-man squad on March 14, 2026, for upcoming international friendlies against Brazil and Belgium. Uncapped Crystal Palace midfielder Adam Wharton received his first senior call-up alongside recall candidate Ivan Toney. Southgate emphasized squad depth, declaring, 'These high-calibre international fixtures give us the exact competitive preparation we require before finalizing our summer tournament roster.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-024",
+            "category": "national_team_callup",
+            "text": "Germany head coach Julian Nagelsmann announced his squad on March 15, 2026, for spring matches against France and the Netherlands. Arsenal's new midfielder Julian Brandt retained his spot, alongside Bayern Munich youngster Aleksandar Pavlović. Nagelsmann commented, 'Julian Brandt's outstanding form in England fully merits his inclusion. We need players operating at peak tactical intensity in our international setup.'",
+            "question": "Which manager called up Julian Brandt for Germany's spring matches in 2026?",
+            "answer": "Julian Nagelsmann"
+        },
+        {
+            "id": "doc-025",
+            "category": "national_team_callup",
+            "text": "France head coach Didier Deschamps recalled Liverpool forward Marcus Thuram to the national squad on March 16, 2026, for matches against Germany and Chile. Thuram joined Kylian Mbappé and Antoine Griezmann in a formidable attacking lineup. Deschamps remarked, 'Marcus has demonstrated remarkable scoring efficiency since his winter move to Premier League football, making his selection logical and earned.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-026",
+            "category": "national_team_callup",
+            "text": "Spain head coach Luis de la Fuente included Tottenham winger Nico Williams in his 25-man selection on March 17, 2026, for friendly matches against Colombia and Brazil. Barcelona teenager Lamine Yamal also featured prominently in the attack. De la Fuente noted, 'Nico brings direct vertical aggressiveness that breaks compact defenses, which remains a core asset for our national identity.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-027",
+            "category": "national_team_callup",
+            "text": "Brazil head coach Dorival Júnior summoned Manchester City defender Lucas Beraldo on March 18, 2026, for international friendlies in Europe. Real Madrid stars Vinícius Júnior and Rodrygo led the squad. Dorival stated, 'Lucas Beraldo's swift adjustment to high-level English competition demonstrates he is fully prepared to handle starting responsibilities for the Seleção national team.'",
+            "question": "Who summoned Lucas Beraldo to the Brazil national squad in March 2026?",
+            "answer": "Dorival Júnior"
+        },
+        {
+            "id": "doc-028",
+            "category": "national_team_injury",
+            "text": "England midfielder Jude Bellingham suffered a hamstring strain during training on March 22, 2026, ruling him out of international duty. Real Madrid confirmed the player would undergo three weeks of rehabilitation in Spain. Gareth Southgate stated, 'It is disappointing to lose Jude for these fixtures, but player recovery and safety must take total priority at this stage of the season.'",
+            "question": "What injury ruled Jude Bellingham out of England duty in March 2026?",
+            "answer": "A hamstring strain"
+        },
+        {
+            "id": "doc-029",
+            "category": "national_team_injury",
+            "text": "France defender Dayot Upamecano sustained a high ankle sprain on March 21, 2026, forcing his withdrawal from the national squad. Bayern Munich medical staff confirmed an estimated recovery timeline of four to six weeks. Didier Deschamps called up Axel Disasi as a replacement, stating, 'Injuries are an unfortunate reality of elite football, but Axel gives us instant reliability.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-030",
+            "category": "national_team_injury",
+            "text": "Netherlands captain Virgil van Dijk suffered a severe knee contusion during Liverpool's domestic fixture on April 5, 2026. While scans ruled out major ligament damage, Dutch national team doctor Edwin Goedhart confirmed Van Dijk faces a race against time for full fitness. Ronald Koeman expressed concern, noting, 'Virgil is our defensive cornerstone, and we are monitoring his progress daily.'",
+            "question": "Which national team captain suffered a severe knee contusion in April 2026?",
+            "answer": "Virgil van Dijk"
+        },
+        {
+            "id": "doc-031",
+            "category": "national_team_injury",
+            "text": "Belgium playmaker Kevin De Bruyne withdrew from international duty on March 20, 2026, citing persistent groin tightness. Manchester City medical staff requested the player remain in Manchester for targeted physical therapy. National team manager Domenico Tedesco supported the decision, remarking, 'We must protect Kevin's health to ensure he reaches peak condition for our upcoming competitive fixtures.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-032",
+            "category": "national_team_injury",
+            "text": "Italy striker Mateo Retegui was ruled out for six weeks after suffering a shoulder dislocation on March 23, 2026. The Atalanta forward underwent successful non-surgical repositioning in Rome. Italy manager Luciano Spalletti commented, 'Mateo's absence is unfortunate given his recent scoring form, but we have alternative tactical solutions ready for our upcoming fixtures.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-033",
+            "category": "national_team_result",
+            "text": "England secured a convincing 2-1 victory over Brazil at Wembley Stadium on March 23, 2026. Harry Kane opened the scoring with a 20th-minute header, before Vinícius Júnior equalized for Brazil. Substitute Ollie Watkins scored the winning goal in the 81st minute. Gareth Southgate remarked, 'Defeating a team of Brazil's quality provides huge belief and validates our tactical preparation.'",
+            "question": "Who scored the winning goal for England against Brazil on March 23, 2026?",
+            "answer": "Ollie Watkins"
+        },
+        {
+            "id": "doc-034",
+            "category": "national_team_result",
+            "text": "Germany produced an impressive display to beat France 2-0 at the Groupama Stadium in Lyon on March 23, 2026. Florian Wirtz scored a spectacular long-range goal within eight seconds, and Kai Havertz added a second early in the second half. Germany coach Julian Nagelsmann praised the performance, saying, 'Our intensity from the opening whistle was exceptional and set the tone.'",
+            "question": "Who scored the opening goal for Germany against France in under ten seconds?",
+            "answer": "Florian Wirtz"
+        },
+        {
+            "id": "doc-035",
+            "category": "national_team_result",
+            "text": "Spain and Brazil played out an entertaining 3-3 draw at the Santiago Bernabéu Stadium in Madrid on March 26, 2026. Rodri scored two penalties for Spain alongside a goal from Lamine Yamal, while Lucas Beraldo, Endrick, and Paquetá scored for Brazil. Luis de la Fuente noted, 'It was an extraordinary match for neutral spectators, showcasing top-tier attacking quality.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-036",
+            "category": "national_team_result",
+            "text": "The Netherlands coasted to a 4-0 win against Scotland at the Johan Cruyff Arena on March 22, 2026. Tijjani Reijnders, Georginio Wijnaldum, Wout Weghorst, and Donyell Malen scored for the Dutch side. Head coach Ronald Koeman remained grounded, declaring, 'The result is satisfying, but our defensive organization in the first half required far too many corrections.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-037",
+            "category": "premier_league_transfer",
+            "text": "West Ham United finalized the signing of winger Steven Bergwijn from Ajax for £21 million on January 29, 2026. The 28-year-old Dutch international signed a three-and-a-half-year contract at London Stadium. West Ham manager Julen Lopetegui commented, 'Steven adds proven international quality, direct dribbling ability, and positional flexibility across our attacking line.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-038",
+            "category": "premier_league_result",
+            "text": "Tottenham Hotspur secured a dominant 4-1 victory over Newcastle United at the Tottenham Hotspur Stadium on April 19, 2026. Nico Williams delivered a standout performance, scoring one goal and assisting two others for Son Heung-min and Richarlison. Alexander Isak scored Newcastle's lone goal. Ange Postecoglou declared, 'Nico Williams showed today why we worked so hard to sign him.'",
+            "question": "How many goals did Nico Williams assist against Newcastle United on April 19, 2026?",
+            "answer": "Two goals"
+        },
+        {
+            "id": "doc-039",
+            "category": "premier_league_table",
+            "text": "In the Premier League golden boot race as of May 1, 2026, Manchester City striker Erling Haaland leads the scoring charts with 26 goals in 31 appearances. Arsenal's Bukayo Saka sits second with 19 goals, while Newcastle's Alexander Isak occupies third position with 18 goals. Liverpool newcomer Marcus Thuram has rapidly climbed the rankings, tallying 9 goals since his January arrival.",
+            "question": "Who leads the Premier League golden boot race on May 1, 2026?",
+            "answer": "Erling Haaland"
+        },
+        {
+            "id": "doc-040",
+            "category": "national_team_result",
+            "text": "Portugal edged past Sweden 3-2 in a high-scoring friendly in Guimarães on March 21, 2026. Bruno Fernandes, Rafael Leão, and Gonçalo Ramos netted for Portugal, while Viktor Gyökeres scored both goals for Sweden. Roberto Martínez commended the squad's attacking fluidity, noting, 'We created numerous high-value chances, though defensive transition moments still require refinement.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-041",
+            "category": "premier_league_transfer",
+            "text": "Newcastle United completed the signing of central defender Edmond Tapsoba from Bayer Leverkusen for £45 million on January 26, 2026. The 27-year-old Burkina Faso international signed a four-and-a-half-year contract at St James' Park. Newcastle manager Eddie Howe stated, 'Edmond is an elite defender with exceptional composure under pressure, and his arrival gives us crucial defensive stability.'",
+            "question": "Which defender joined Newcastle United from Bayer Leverkusen in January 2026?",
+            "answer": "Edmond Tapsoba"
+        },
+        {
+            "id": "doc-042",
+            "category": "premier_league_transfer",
+            "text": "Manchester United secured the signing of midfielder Morten Hjulmand from Sporting CP for £38 million on February 1, 2026. The 26-year-old Danish international agreed to a four-year deal with an option for a further season. Erik ten Hag praised Hjulmand's tactical presence, remarking, 'Morten brings leadership, physical resilience, and defensive balance that will significantly strengthen our central midfield setup.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-043",
+            "category": "premier_league_transfer",
+            "text": "Everton signed striker Youssef En-Nesyri from Fenerbahçe on a six-month loan deal with a £20 million option to buy on January 30, 2026. The Moroccan international joined to bolster Everton's fighting chance against relegation. Manager David Moyes stated, 'Youssef brings proven aerial threat and work rate, which will be vital for us in the remaining fixtures.'",
+            "question": "What type of transfer deal brought Youssef En-Nesyri to Everton in January 2026?",
+            "answer": "A six-month loan deal with an option to buy"
+        },
+        {
+            "id": "doc-044",
+            "category": "premier_league_transfer",
+            "text": "Brighton & Hove Albion acquired Chilean international winger Dario Osorio from Midtjylland for £16 million on January 20, 2026. The 22-year-old signed a five-year contract on the South Coast. Brighton manager Fabian Hürzler noted, 'Dario possesses incredible raw pace and technical skill, fitting our recruitment profile perfectly.' Osorio made his debut off the bench the following week.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-045",
+            "category": "premier_league_result",
+            "text": "Arsenal defeated West Ham United 3-0 at the London Stadium on April 22, 2026. Kai Havertz opened the scoring in the first half before Julian Brandt and Bukayo Saka added two more after the break. West Ham failed to register a single shot on target throughout the match. Mikel Arteta remarked, 'The team displayed dominant structure and professional focus from the first minute.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-046",
+            "category": "premier_league_result",
+            "text": "Manchester City swept past Everton 4-1 at Goodison Park on April 21, 2026. Erling Haaland bagged a hat-trick for the champions, with Phil Foden adding a fourth, while Dominic Calvert-Lewin scored Everton's solitary consolation. City controlled over 70% of possession. Pep Guardiola praised his goalscorer, stating, 'Erling's positioning and instinct in the box today were simply unstoppable.'",
+            "question": "Who scored a hat-trick for Manchester City against Everton on April 21, 2026?",
+            "answer": "Erling Haaland"
+        },
+        {
+            "id": "doc-047",
+            "category": "premier_league_result",
+            "text": "Liverpool edged Newcastle United 2-1 at St James' Park on April 25, 2026. Alexander Isak gave Newcastle an early lead, but Liverpool responded through Mohamed Salah and a late 88th-minute header from Marcus Thuram. The result kept Liverpool firmly in third place. Arne Slot praised his team's character, declaring, 'Winning at St James' Park under high pressure shows our squad's maturity.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-048",
+            "category": "premier_league_result",
+            "text": "Tottenham Hotspur defeated Aston Villa 2-0 at Villa Park on April 26, 2026. Goals from Nico Williams and James Maddison secured crucial three points for Spurs in their pursuit of top-four qualification. Aston Villa's Florentino Luís received a red card in the 65th minute. Ange Postecoglou remarked, 'We controlled the match strategically and took our chances at vital moments.'",
+            "question": "Which player received a red card in the match between Aston Villa and Tottenham Hotspur on April 26, 2026?",
+            "answer": "Florentino Luís"
+        },
+        {
+            "id": "doc-049",
+            "category": "premier_league_result",
+            "text": "Chelsea recorded a comfortable 3-0 win against Sheffield United at Stamford Bridge on April 25, 2026. Cole Palmer, Nicolas Jackson, and Enzo Fernández were all on the scoresheet as Jonas Urbig kept a clean sheet in goal. Chelsea moved up to sixth place in the league table. Manager Enzo Maresca noted, 'Jonas provided exceptional calmness in goal and distribution from the back.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-050",
+            "category": "premier_league_table",
+            "text": "Following matchday 35 on April 26, 2026, Arsenal continue to lead the Premier League table with 82 points, closely pursued by Manchester City on 80 points. Liverpool remain comfortably third on 74 points. Tottenham Hotspur moved up to fourth place with 65 points, edging past Aston Villa on goal difference after Villa also remain on 65 points. Newcastle United sit seventh with 58 points.",
+            "question": "Which team holds fourth place in the Premier League table after matchday 35 on April 26, 2026?",
+            "answer": "Tottenham Hotspur"
+        },
+        {
+            "id": "doc-051",
+            "category": "premier_league_table",
+            "text": "In the Premier League assists chart as of May 1, 2026, Kevin De Bruyne of Manchester City and Bukayo Saka of Arsenal share top spot with 14 assists each. Tottenham's James Maddison follows closely with 12 assists, while Cole Palmer of Chelsea has recorded 11. Arsenal's winter signing Julian Brandt has already registered 5 assists in 11 appearances.",
+            "question": "How many assists has Julian Brandt registered in the Premier League by May 1, 2026?",
+            "answer": "5 assists"
+        },
+        {
+            "id": "doc-052",
+            "category": "champions_league_result",
+            "text": "Real Madrid defeated Bayern Munich 2-1 at the Santiago Bernabéu on April 15, 2026, but were eliminated 3-2 on aggregate following Munich's first-leg victory. Vinícius Júnior and Rodrygo scored for Madrid, while Harry Kane converted a decisive late penalty for Bayern. Real Madrid manager Carlo Ancelotti admitted, 'Conceding that penalty late in the tie was painful, but Bayern managed the aggregate lead well.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-053",
+            "category": "champions_league_result",
+            "text": "Inter Milan beat Atletico Madrid 1-0 at San Siro on April 15, 2026, advancing 2-1 on aggregate to the quarter-finals earlier in the tournament. Lautaro Martínez scored the match winner in the 78th minute. Simone Inzaghi lauded his forward's performance, stating, 'Lautaro works tirelessly for the team and delivers when the moments matter most in Europe.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-054",
+            "category": "champions_league_result",
+            "text": "Barcelona earned a dramatic 3-1 victory against Paris Saint-Germain at the Montjuïc Stadium on March 11, 2026, during the round of 16 second leg, progressing 4-3 on aggregate. Lamine Yamal scored twice, with Robert Lewandowski adding a third. Luis Enrique's PSG side fell short despite Bradley Barcola's goal. Hansi Flick declared, 'Lamine's world-class potential was on full display tonight.'",
+            "question": "What was the aggregate score between Barcelona and PSG in the Champions League round of 16?",
+            "answer": "4-3 to Barcelona"
+        },
+        {
+            "id": "doc-055",
+            "category": "champions_league_result",
+            "text": "In the Champions League semi-final first leg on April 29, 2026, Manchester City's 2-0 home victory against Barcelona was highlighted by tactical dominance in midfield. Rodri and Kevin De Bruyne completed over 90% of their passes, restricting Barcelona's chances. Pep Guardiola stated post-match, 'Controlling the midfield tempo against a team like Barcelona is the only way to minimize their dangerous attackers.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-056",
+            "category": "champions_league_squad",
+            "text": "Barcelona's starting XI for their Champions League semi-final first leg against Manchester City featured Marc-André ter Stegen in goal behind Jules Koundé, Ronald Araújo, Pau Cubarsí, and Alejandro Balde. Pedri, İlkay Gündoğan, and Frenkie de Jong formed the midfield, while Lamine Yamal, Raphinha, and Robert Lewandowski started in attack. Gavi missed the match as he continued rehabilitation from knee surgery.",
+            "question": "Which Barcelona midfielder missed the Champions League semi-final against Manchester City due to knee rehabilitation?",
+            "answer": "Gavi"
+        },
+        {
+            "id": "doc-057",
+            "category": "champions_league_squad",
+            "text": "Real Madrid lined up in a 4-3-3 system for their Champions League quarter-final second leg against Arsenal, featuring Thibaut Courtois in goal with Dani Carvajal, Antonio Rüdiger, Éder Militão, and Ferland Mendy. The midfield comprised Federico Valverde, Aurélien Tchouaméni, and Luka Modrić, behind an attacking trio of Rodrygo, Jude Bellingham, and Vinícius Júnior. Eduardo Camavinga started on the bench.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-058",
+            "category": "champions_league_squad",
+            "text": "Bayern Munich selected Manuel Neuer in goal for their quarter-final clash against Manchester City, guarded by Joshua Kimmich, Dayot Upamecano, Matthijs de Ligt, and Alphonso Davies. Leon Goretzka and Konrad Laimer anchored the central midfield, while Leroy Sané, Jamal Musiala, and Thomas Müller supported central striker Harry Kane. Kingsley Coman was unavailable due to a thigh injury.",
+            "question": "Who started as central striker for Bayern Munich against Manchester City in the quarter-finals?",
+            "answer": "Harry Kane"
+        },
+        {
+            "id": "doc-059",
+            "category": "national_team_callup",
+            "text": "Italy head coach Luciano Spalletti announced a 26-man roster on March 15, 2026, for international friendlies against Venezuela and Ecuador. Inter Milan defender Alessandro Bastoni led the defensive line alongside Gianluca Mancini. Spalletti emphasized tactical growth, stating, 'These fixtures in the United States give us essential tactical testing against high-intensity non-European opposition.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-060",
+            "category": "national_team_callup",
+            "text": "Portugal coach Roberto Martínez included Cristiano Ronaldo and Bruno Fernandes in his 24-man squad on March 14, 2026, for international matches against Sweden and Slovenia. Sporting CP defender Gonçalo Inácio was also included. Martínez stated, 'Cristiano's dedication and leadership remain invaluable assets as we continue building squad synergy for major international competitions.'",
+            "question": "Which Portuguese manager included Cristiano Ronaldo in his March 2026 international squad?",
+            "answer": "Roberto Martínez"
+        },
+        {
+            "id": "doc-061",
+            "category": "national_team_callup",
+            "text": "Netherlands head coach Ronald Koeman named a 25-man squad on March 15, 2026, for spring warm-up fixtures against Scotland and Germany. Liverpool defender Virgil van Dijk captained the squad alongside Atletico Madrid forward Memphis Depay. Koeman declared, 'We are focusing on tactical clarity and defensive organization as we refine our core playing style.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-062",
+            "category": "national_team_callup",
+            "text": "Belgium head coach Domenico Tedesco called up Manchester City midfielder Kevin De Bruyne and Everton midfielder Amadou Onana on March 16, 2026, for friendlies against Ireland and England. Tedesco remarked, 'We are integrating younger dynamic talents alongside experienced leaders to maintain a balanced, competitive team environment.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-063",
+            "category": "national_team_injury",
+            "text": "Germany winger Serge Gnabry suffered a muscle tear in his left thigh on March 19, 2026, forcing his exclusion from Julian Nagelsmann's spring international squad. Bayern Munich confirmed the winger will be sidelined for approximately four weeks. Nagelsmann expressed disappointment, stating, 'Serge was in great physical condition, but we must adapt and give opportunities to other attacking players.'",
+            "question": "What injury sidelined Serge Gnabry from the Germany squad in March 2026?",
+            "answer": "A muscle tear in his left thigh"
+        },
+        {
+            "id": "doc-064",
+            "category": "national_team_injury",
+            "text": "Spain midfielder Gavi was officially ruled out of all spring international fixtures on March 10, 2026, as his recovery from an ACL injury extended into May. Barcelona medical staff recommended caution regarding his return to match fitness. Luis de la Fuente stated, 'We will never risk Gavi's long-term career; his full health is our absolute priority.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-065",
+            "category": "national_team_injury",
+            "text": "Brazil goalkeeper Alisson Becker suffered a hamstring injury during Liverpool training on March 18, 2026, preventing his participation in friendlies against England and Spain. Dorival Júnior selected Bento as his starting goalkeeper instead. Dorival noted, 'Alisson's experience is missed, but Bento has full confidence from the entire coaching staff.'",
+            "question": "Which goalkeeper replaced the injured Alisson Becker in Brazil's starting lineup in March 2026?",
+            "answer": "Bento"
+        },
+        {
+            "id": "doc-066",
+            "category": "national_team_injury",
+            "text": "England defender Trent Alexander-Arnold was ruled out of spring international friendlies on March 20, 2026, due to a knee ligament strain suffered with Liverpool. Gareth Southgate selected Kyle Walker and Reece James at right-back. Southgate stated, 'Trent's passing range is unique, but Reece and Kyle provide elite defensive stability and international quality.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-067",
+            "category": "national_team_result",
+            "text": "France recorded a comfortable 3-1 victory over Chile at the Stade de France on March 26, 2026. Kylian Mbappé scored twice, with Marcus Thuram adding a third following a rapid counter-attack. Alexis Sánchez scored Chile's single goal. Didier Deschamps said, 'Marcus Thuram's combination play with Kylian showed great tactical understanding tonight.'",
+            "question": "How many goals did Kylian Mbappé score against Chile on March 26, 2026?",
+            "answer": "Two goals"
+        },
+        {
+            "id": "doc-068",
+            "category": "national_team_result",
+            "text": "Italy defeated Ecuador 2-0 at the Red Bull Arena in New Jersey on March 24, 2026. Lorenzo Pellegrini opened the scoring in the 3rd minute before Nicolò Barella added a second late in stoppage time. Luciano Spalletti expressed satisfaction, stating, 'We managed the game defensively while creating dangerous transitions throughout.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-069",
+            "category": "national_team_result",
+            "text": "Germany earned a 2-1 win against the Netherlands at the Deutsche Bank Park in Frankfurt on March 26, 2026. Joey Veerman gave the Dutch team an early lead, but Maximilian Mittelstädt and Niclas Füllkrug turned the game around for Germany. Julian Nagelsmann remarked, 'Coming back against a strong Netherlands team demonstrates our squad's resilience.'",
+            "question": "Who scored the winning goal for Germany against the Netherlands on March 26, 2026?",
+            "answer": "Niclas Füllkrug"
+        },
+        {
+            "id": "doc-070",
+            "category": "national_team_result",
+            "text": "Belgium drew 2-2 against England in an exciting friendly at Wembley Stadium on March 26, 2026. Youri Tielemans scored twice for Belgium, while Ivan Toney and Jude Bellingham, before his training injury, scored for England. Domenico Tedesco remarked, 'Playing at Wembley and competing so strongly gives us enormous confidence.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-071",
+            "category": "premier_league_transfer",
+            "text": "Crystal Palace finalized the signing of forward Evann Guessand from Nice for £17 million on January 25, 2026. The 24-year-old Ivory Coast international agreed to a four-year contract at Selhurst Park. Manager Oliver Glasner stated, 'Evann provides physically powerful runs and tactical versatility across our front line.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-072",
+            "category": "premier_league_result",
+            "text": "Aston Villa beat Manchester United 2-1 at Villa Park on April 12, 2026. Ollie Watkins and Leon Bailey scored for Unai Emery's side, while Bruno Fernandes registered United's single goal from a penalty kick. Unai Emery praised his team's effort, saying, 'Defeating Manchester United requires collective discipline and intensity, which we showed today.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-073",
+            "category": "premier_league_result",
+            "text": "Liverpool cruised to a 4-0 victory against Burnley at Turf Moor on April 11, 2026. Mohamed Salah scored twice, while Marcus Thuram and Cody Gakpo added one goal each. Burnley remained trapped in the relegation zone. Arne Slot declared, 'Our offensive fluidity was excellent, and keeping a clean sheet makes the victory complete.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-074",
+            "category": "champions_league_result",
+            "text": "Paris Saint-Germain defeated Borussia Dortmund 2-0 at the Signal Iduna Park in the round of 16 on March 10, 2026, progressing 3-1 on aggregate. Ousmane Dembélé and Vitinha scored for the French champions. Luis Enrique commented, 'Winning in Dortmund requires remarkable mental resilience, and the players executed our plan to perfection.'",
+            "question": "What was the aggregate score between PSG and Borussia Dortmund in the round of 16?",
+            "answer": "3-1 to PSG"
+        },
+        {
+            "id": "doc-075",
+            "category": "champions_league_squad",
+            "text": "Inter Milan deployed Yann Sommer in goal for their quarter-final tie against PSG, behind Benjamin Pavard, Francesco Acerbi, and Alessandro Bastoni. Denzel Dumfries, Nicolò Barella, Hakan Çalhanoğlu, Henrikh Mkhitaryan, and Federico Dimarco lined up across midfield, with Marcus Thuram's former partner Lautaro Martínez alongside Mehdi Taremi in attack.",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-076",
+            "category": "national_team_callup",
+            "text": "Argentina national team manager Lionel Scaloni named a 26-man squad on March 12, 2026, for exhibition matches against El Salvador and Costa Rica. Lionel Messi led the world champions alongside Julian Alvarez and Enzo Fernández. Scaloni stated, 'Maintaining our competitive standards is vital as we prepare for upcoming international tournaments.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-077",
+            "category": "national_team_injury",
+            "text": "Portugal defender Nuno Mendes suffered a hamstring strain on March 22, 2026, ruling him out of Portugal's international friendly against Slovenia. PSG medical staff requested his immediate return to Paris for treatment. Roberto Martínez noted, 'Nuno's health is paramount, and we have quality depth in Raphaël Guerreiro to step in.'",
+            "question": null,
+            "answer": null
+        },
+        {
+            "id": "doc-078",
+            "category": "national_team_result",
+            "text": "Brazil defeated England 1-0 at Wembley Stadium on March 23, 2026, in a tightly contested friendly match prior to England's match against Belgium. 17-year-old sensation Endrick scored the winning goal in the 80th minute. Dorival Júnior lauded the young striker, stating, 'Endrick possesses extraordinary maturity and instinct in front of goal.'",
+            "question": "Who scored the winning goal for Brazil against England at Wembley on March 23, 2026?",
+            "answer": "Endrick"
+        },
+        {
+            "id": "doc-079",
+            "category": "premier_league_table",
+            "text": "As of May 1, 2026, Arsenal lead the Premier League in defensive record, having conceded only 24 goals in 35 matches. Manchester City rank second defensively with 28 goals conceded, while Liverpool have conceded 31 goals. David Raya of Arsenal leads the Golden Glove race with 17 clean sheets, followed by Ederson of Manchester City on 15 clean sheets.",
+            "question": "Who leads the Premier League Golden Glove race on May 1, 2026?",
+            "answer": "David Raya"
+        },
+        {
+            "id": "doc-080",
+            "category": "premier_league_result",
+            "text": "Arsenal defeated Newcastle United 1-0 at St James' Park on April 5, 2026. Bukayo Saka scored the match's only goal from a Julian Brandt pass in the 58th minute. The victory was crucial in Arsenal's title push. Mikel Arteta stated, 'Winning at St James' Park requires maximum character, and the players delivered an outstanding performance.'",
+            "question": null,
+            "answer": null
+        }
+    ]
+}
