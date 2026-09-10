@@ -1,0 +1,31 @@
+{
+  "doc-9e1a5454aaa124cfdf6e732f09b9423f": {
+    "status": "processed",
+    "content_summary": "The Rosetta Stone\n\nThe Rosetta Stone is a granodiorite stele bearing a decree issued at Memphis in 196 BC on behalf of King Ptolemy V of Egypt. The decree appears in three scripts: Egyptian hieroglyphs, Egyptian Demotic, and Ancient Greek. Because th...",
+    "content_length": 11243,
+    "created_at": "2026-09-09T11:19:33.298773+00:00",
+    "updated_at": "2026-09-09T11:23:59.910639+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260909_131933_b3f0bee6",
+    "content_hash": "9e1a5454aaa124cfdf6e732f09b9423f",
+    "metadata": {
+      "parse_start_time": 1788952773,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1788952773,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1788952773,
+      "process_end_time": 1788953039,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 3,
+    "chunks_list": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ]
+  }
+}

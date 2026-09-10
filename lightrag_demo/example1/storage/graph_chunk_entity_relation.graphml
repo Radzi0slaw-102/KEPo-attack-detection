@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Rosetta Stone">
+  <data key="d0">Rosetta Stone</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A granodiorite stele bearing a decree issued at Memphis in 196 BC on behalf of King Ptolemy V of Egypt, containing text preserved in three scripts: Egyptian hieroglyphs, Egyptian Demotic, and Ancient Greek. It is incomplete but serves as the key that allowed scholars to decipher Egyptian hieroglyphs.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Memphis Decree">
+  <data key="d0">Memphis Decree</data>
+  <data key="d1">content</data>
+  <data key="d2">The decree issued at Memphis in 196 BC on behalf of King Ptolemy V of Egypt, affirming the royal cult of Ptolemy V and listing benefits granted to temples by a council of Egyptian priests.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="King Ptolemy V">
+  <data key="d0">King Ptolemy V</data>
+  <data key="d1">person</data>
+  <data key="d2">The pharaoh who ruled Egypt in 196 BC upon whose coronation the Memphis Decree was issued one year after his reign began.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="French soldiers">
+  <data key="d0">French soldiers</data>
+  <data key="d1">organization</data>
+  <data key="d2">Troops led by Napoleon Bonaparte during their military campaign in Egypt where they discovered the Rosetta Stone in 1799.&lt;SEP&gt;Troops during Napoleon Bonaparte's campaign who discovered the Rosetta Stone near el-Rashid in 1799.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Napoleon Bonaparte">
+  <data key="d0">Napoleon Bonaparte</data>
+  <data key="d1">person</data>
+  <data key="d2">The French general whose military campaign in Egypt resulted in the discovery of the Rosetta Stone.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="el-Rashid">
+  <data key="d0">el-Rashid</data>
+  <data key="d1">location</data>
+  <data key="d2">The town where the Rosetta Stone was found near the Nile Delta while troops were carrying out demolition and construction work on a fort.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Pierre-François Bouchard">
+  <data key="d0">Pierre-François Bouchard</data>
+  <data key="d1">person</data>
+  <data key="d2">An engineer serving with the French expedition who is generally credited with recognizing the significance of the Rosetta Stone.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="British Museum">
+  <data key="d0">British Museum</data>
+  <data key="d1">organization</data>
+  <data key="d2">The institution that has held the Rosetta Stone in London since 1802, where it remains one of the most visited objects.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="London">
+  <data key="d0">London</data>
+  <data key="d1">location</data>
+  <data key="d2">The city in England where the Rosetta Stone has been housed by the British Museum since 1802.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Thomas Young">
+  <data key="d0">Thomas Young</data>
+  <data key="d1">person</data>
+  <data key="d2">An English polymath who made early progress in deciphering hieroglyphs in the 1810s by correctly identifying that some signs recorded royal names.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Jean-François Champollion">
+  <data key="d0">Jean-François Champollion</data>
+  <data key="d1">person</data>
+  <data key="d2">A French scholar who announced in 1822 that he had cracked the hieroglyphic writing system, building on Thomas Young's work and his own analysis of the cartouche of Ptolemy V.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Académie des Inscriptions et Belles-Lettres">
+  <data key="d0">Académie des Inscriptions et Belles-Lettres</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Parisian academy where Jean-François Champollion read a letter announcing his breakthrough in deciphering hieroglyphs in September 1822.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Akhenaten">
+  <data key="d0">Akhenaten</data>
+  <data key="d1">person</data>
+  <data key="d2">The pharaoh known for promoting the worship of the sun disk Aten, who was the father of Tutankhamun.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Tutankhamun">
+  <data key="d0">Tutankhamun</data>
+  <data key="d1">person</data>
+  <data key="d2">A member of the 18th Dynasty who became pharaoh around 1332 BCE, ruled for roughly ten years, and died young with his tomb escaping large-scale looting.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Howard Carter">
+  <data key="d0">Howard Carter</data>
+  <data key="d1">person</data>
+  <data key="d2">A British archaeologist who led the excavation of Tutankhamun's tomb in the Valley of the Kings starting in 1922.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Lord Carnarvon">
+  <data key="d0">Lord Carnarvon</data>
+  <data key="d1">person</data>
+  <data key="d2">The patron named George Herbert, 5th Earl of Carnarvon, whose full name is recorded, who funded Howard Carter's excavation and died shortly after the tomb was opened.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="KV62">
+  <data key="d0">KV62</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The designation for Tutankhamun's tomb located in the Valley of the Kings, discovered on November 4, 1922.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="George Herbert">
+  <data key="d0">George Herbert</data>
+  <data key="d1">person</data>
+  <data key="d2">The full name of Lord Carnarvon (5th Earl of Carnarvon), who served as Howard Carter's patron for the excavation of Tutankhamun's tomb.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Georgi Herbert">
+  <data key="d0">Georgi Herbert</data>
+  <data key="d1">location</data>
+  <data key="d2">The location of the Grand Egyptian Museum near the Giza pyramids where many artifacts from Tutankhamun's tomb, including the gold mask, were later moved after being initially housed in the Egyptian Museum in Cairo.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Egyptian Museum">
+  <data key="d0">Egyptian Museum</data>
+  <data key="d1">organization</data>
+  <data key="d2">The institution in Cairo that initially housed artifacts from Tutankhamun's tomb before many were moved to the Grand Egyptian Museum near the Giza pyramids.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Hieroglyphs">
+  <data key="d0">Hieroglyphs</data>
+  <data key="d1">content</data>
+  <data key="d2">The writing system preserved on the Rosetta Stone which was unreadable for centuries until scholars could decipher it using the stone's text.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Great Wall of China">
+  <data key="d0">Great Wall of China</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A UNESCO World Heritage Site designated in 1987, recognized as a powerful symbol of Chinese engineering and endurance, having largely lost its military significance after the fall of the Ming Dynasty.&lt;SEP&gt;The series of fortifications across northern China, largely rebuilt by the Ming Dynasty using fired brick and cut stone, featuring watchtowers and integrated natural defenses like rivers and ridges.&lt;SEP&gt;A defensive structure stretching approximately 8,850 kilometers, featuring over 25,000 watchtowers and serving as a symbol of Chinese engineering.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001&lt;SEP&gt;doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Warring States period">
+  <data key="d0">Warring States period</data>
+  <data key="d1">concept</data>
+  <data key="d2">An era in ancient Chinese history dating back over two thousand years, characterized by territorial competition among states leading up to unification under Qin Shi Huang.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Emperor Qin Shi Huang">
+  <data key="d0">Emperor Qin Shi Huang</data>
+  <data key="d1">person</data>
+  <data key="d2">The ruler who unified China in 221 BCE and initiated early wall-building efforts along the northern frontier using rammed earth.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Ming Dynasty">
+  <data key="d0">Ming Dynasty</data>
+  <data key="d1">organization</data>
+  <data key="d2">A Chinese imperial dynasty that fell in 1644 after the strategic pass at Shanhaiguan was opened by its general Wu Sangui.&lt;SEP&gt;The Chinese dynasty that ruled from 1368 to 1644, responsible for the most visible and well-preserved sections of the Great Wall.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001&lt;SEP&gt;doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Zhu Yuanzhang">
+  <data key="d0">Zhu Yuanzhang</data>
+  <data key="d1">person</data>
+  <data key="d2">Also known as the Hongwu Emperor; founder of the Ming Dynasty who initiated major wall-building efforts as a defense against Mongol tribes.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Beijing">
+  <data key="d0">Beijing</data>
+  <data key="d1">location</data>
+  <data key="d2">The capital city located near strategically important sections of the Great Wall where fired brick and cut stone were heavily used.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="China's State Administration of Cultural Heritage">
+  <data key="d0">China's State Administration of Cultural Heritage</data>
+  <data key="d1">organization</data>
+  <data key="d2">The government body that conducted a 2009 survey using infrared and GPS mapping technology to measure the full extent of the Ming wall.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Badaling">
+  <data key="d0">Badaling</data>
+  <data key="d1">location</data>
+  <data key="d2">A well-fortified section of the Great Wall located about 70 kilometers northwest of Beijing, opened to tourists in 1957 and extensively restored.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Mutianyu">
+  <data key="d0">Mutianyu</data>
+  <data key="d1">location</data>
+  <data key="d2">Another well-known Ming-era section of the Great Wall first built in 1368 under general Xu Da.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Nine Frontier Garrisons">
+  <data key="d0">Nine Frontier Garrisons</data>
+  <data key="d1">concept</data>
+  <data key="d2">A defensive organizational system comprising nine defense zones with regional military governors, integrated into the broader wall network.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Manchu forces">
+  <data key="d0">Manchu forces</data>
+  <data key="d1">organization</data>
+  <data key="d2">The military group that entered through the Shanhaiguan pass in 1644, establishing the Qing Dynasty after suppressing Li Zicheng's rebellion.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Qing Dynasty">
+  <data key="d0">Qing Dynasty</data>
+  <data key="d1">organization</data>
+  <data key="d2">A Chinese dynasty established in 1644 when Manchu forces entered China through the pass at Shanhaiguan, enabled by Wu Sangui's strategic decision to suppress Li Zicheng's rebellion.&lt;SEP&gt;The dynasty established by Manchu forces in 1644 following their entry into Beijing through the Great Wall's strategic pass at Shanhaiguan.&lt;SEP&gt;The dynasty established after Manchu forces entered through Shanhaiguan to suppress Li Zicheng's rebellion.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001&lt;SEP&gt;doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Li Zicheng">
+  <data key="d0">Li Zicheng</data>
+  <data key="d1">person</data>
+  <data key="d2">The leader of a rebellion whose suppression required assistance from the Ming forces, including those led by Wu Sangui.&lt;SEP&gt;A rebel leader whose suppression helped suppress a rebellion, leading to the opening of the Shanhaiguan pass by Wu Sangui.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001&lt;SEP&gt;doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Wu Sangui">
+  <data key="d0">Wu Sangui</data>
+  <data key="d1">person</data>
+  <data key="d2">The Ming general who opened the strategic pass at Shanhaiguan, allowing Manchu forces through to help suppress the rebellion led by Li Zicheng, an act that inadvertently enabled the Manchus to establish the Qing Dynasty.&lt;SEP&gt;A Ming general who opened the strategic pass at Shanhaiguan in 1644 to help suppress Li Zicheng's rebellion, inadvertently enabling Manchu forces.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001&lt;SEP&gt;doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Ming construction">
+  <data key="d0">Ming construction</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The building efforts that intensified after Mongol raids in the 15th century and continued for roughly two hundred years under the Ming Dynasty.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="infrared and GPS mapping technology">
+  <data key="d0">infrared and GPS mapping technology</data>
+  <data key="d1">method</data>
+  <data key="d2">Techniques used by China's State Administration of Cultural Heritage in 2009 to measure the full extent of the Great Wall.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="visual signaling">
+  <data key="d0">visual signaling</data>
+  <data key="d1">method</data>
+  <data key="d2">A method using smoke by day and fire by night to warn of approaching threats from watchtowers spaced along the wall.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Garrisons">
+  <data key="d0">Garrisons</data>
+  <data key="d1">organization</data>
+  <data key="d2">Military units stationed at forts along the length of the Great Wall.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Shanhaiguan">
+  <data key="d0">Shanhaiguan</data>
+  <data key="d1">location</data>
+  <data key="d2">The strategic pass of the Great Wall where General Wu Sangui opened it in 1644 to allow Manchu forces through.&lt;SEP&gt;A strategic pass on the Great Wall where Manchu forces entered in 1644.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001&lt;SEP&gt;doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="military significance">
+  <data key="d0">military significance</data>
+  <data key="d1">concept</data>
+  <data key="d2">The role and importance of the Great Wall as a defensive barrier, which largely ended after 1644.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Orville Wright">
+  <data key="d0">Orville Wright</data>
+  <data key="d1">person</data>
+  <data key="d2">One of the brothers who achieved the first powered flight on December 17, 1903; he piloted the first flight of the day and later founded the Wright Company.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Wilbur Wright">
+  <data key="d0">Wilbur Wright</data>
+  <data key="d1">person</data>
+  <data key="d2">One of the brothers who achieved the first powered flight on December 17, 1903; he piloted the longest flight of that morning and died of typhoid fever in 1912.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Wright Flyer">
+  <data key="d0">Wright Flyer</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The aircraft used for the first sustained, controlled flight of a powered, heavier-than-air aircraft on December 17, 1903.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Kitty Hawk">
+  <data key="d0">Kitty Hawk</data>
+  <data key="d1">location</data>
+  <data key="d2">The site near North Carolina where the Wright brothers achieved their first powered flight; specifically the sandy dunes called Kill Devil Hills.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Orville and Wilbur Wright">
+  <data key="d0">Orville and Wilbur Wright</data>
+  <data key="d1">organization</data>
+  <data key="d2">A team of brothers who ran a bicycle repair shop in Dayton, Ohio, and studied aerodynamics before achieving flight.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Charlie Taylor">
+  <data key="d0">Charlie Taylor</data>
+  <data key="d1">person</data>
+  <data key="d2">The mechanic who helped the Wright brothers design the engine for their aircraft.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Dayton">
+  <data key="d0">Dayton</data>
+  <data key="d1">location</data>
+  <data key="d2">The city in Ohio where the Wright brothers ran their bicycle repair shop and wind tunnel laboratory.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Twelve-horsepower gasoline engine">
+  <data key="d0">Twelve-horsepower gasoline engine</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A custom-built engine that powered the Wright Flyer, designed with help from Charlie Taylor.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="John T. Daniels">
+  <data key="d0">John T. Daniels</data>
+  <data key="d1">person</data>
+  <data key="d2">A local businessman and photographer who captured the famous photograph of the first flight before operating a camera.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Kill Devil Hills">
+  <data key="d0">Kill Devil Hills</data>
+  <data key="d1">location</data>
+  <data key="d2">The specific site within Kitty Hawk where the Wright brothers conducted testing and flew in 1903.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Wright Company">
+  <data key="d0">Wright Company</data>
+  <data key="d1">organization</data>
+  <data key="d2">A company founded by Orville and Wilbur Wright in 1909 to manufacture aircraft commercially.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Smithsonian National Air and Space Museum">
+  <data key="d0">Smithsonian National Air and Space Museum</data>
+  <data key="d1">location</data>
+  <data key="d2">The institution in Washington, D.C. where the original 1903 Wright Flyer is currently preserved.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Great Wall">
+  <data key="d0">Great Wall</data>
+  <data key="d1">location</data>
+  <data key="d2">A historic fortification that served as a strategic barrier against invasions but ultimately failed to prevent the fall of the Ming Dynasty.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<node id="Manchus">
+  <data key="d0">Manchus</data>
+  <data key="d1">organization</data>
+  <data key="d2">A group of people who established the Qing Dynasty in 1644 after entering China through the opened pass at Shanhaiguan due to Wu Sangui's actions.</data>
+  <data key="d3">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1788953019</data>
+  <data key="d6"></data>
+</node>
+<edge source="Ming Dynasty" target="Great Wall">
+  <data key="d7">1.0</data>
+  <data key="d8">The Great Wall did not ultimately prevent the fall of the Ming Dynasty in 1644.</data>
+  <data key="d9">failed to prevent fall,fall of Ming Dynasty</data>
+  <data key="d10">doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1788953019</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

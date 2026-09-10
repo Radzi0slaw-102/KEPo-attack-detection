@@ -1,0 +1,614 @@
+{
+  "Rosetta Stone": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Rosetta Stone"
+  },
+  "Memphis": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Memphis"
+  },
+  "Ptolemy V": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Ptolemy V"
+  },
+  "Egyptian Hieroglyphs": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Egyptian Hieroglyphs"
+  },
+  "Egyptian Demotic": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Egyptian Demotic"
+  },
+  "Ancient Greek": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Ancient Greek"
+  },
+  "Napoleon Bonaparte": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Napoleon Bonaparte"
+  },
+  "Rosetta": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Rosetta"
+  },
+  "Nile Delta": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Nile Delta"
+  },
+  "Pierre-François Bouchard": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Pierre-François Bouchard"
+  },
+  "Capitulation of Alexandria": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Capitulation of Alexandria"
+  },
+  "British Museum": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "British Museum"
+  },
+  "Thomas Young": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Thomas Young"
+  },
+  "Jean-François Champollion": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Jean-François Champollion"
+  },
+  "Académie des Inscriptions et Belles-Lettres": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Académie des Inscriptions et Belles-Lettres"
+  },
+  "Memphis Decree": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Memphis Decree"
+  },
+  "KV62": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "KV62"
+  },
+  "Valley of the Kings": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Valley of the Kings"
+  },
+  "Howard Carter": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Howard Carter"
+  },
+  "Lord Carnarvon": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Lord Carnarvon"
+  },
+  "George Herbert": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "George Herbert"
+  },
+  "Tutankhamun": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Tutankhamun"
+  },
+  "Akhenaten": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Akhenaten"
+  },
+  "Aten": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Aten"
+  },
+  "18th Dynasty": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "18th Dynasty"
+  },
+  "Gold Funerary Mask": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Gold Funerary Mask"
+  },
+  "Egyptian Museum": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Egyptian Museum"
+  },
+  "Grand Egyptian Museum": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Grand Egyptian Museum"
+  },
+  "Giza": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Giza"
+  },
+  "Cairo": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Cairo"
+  },
+  "Giza Pyramids": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Giza Pyramids"
+  },
+  "New Kingdom": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "New Kingdom"
+  },
+  "Orville Wright": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Orville Wright"
+  },
+  "Wilbur Wright": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Wilbur Wright"
+  },
+  "Kitty Hawk": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Kitty Hawk"
+  },
+  "Kill Devil Hills": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Kill Devil Hills"
+  },
+  "Wright Flyer": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Wright Flyer"
+  },
+  "Charlie Taylor": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Charlie Taylor"
+  },
+  "John T. Daniels": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "John T. Daniels"
+  },
+  "Smithsonian National Air and Space Museum": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Smithsonian National Air and Space Museum"
+  },
+  "Wright Company": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Wright Company"
+  },
+  "Ming Dynasty": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Ming Dynasty"
+  },
+  "Great Wall of China": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Great Wall of China"
+  },
+  "Emperor Qin Shi Huang": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Emperor Qin Shi Huang"
+  },
+  "Zhu Yuanzhang": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Zhu Yuanzhang"
+  },
+  "Beijing": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Beijing"
+  },
+  "Badaling": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Badaling"
+  },
+  "Mutianyu": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Mutianyu"
+  },
+  "Xu Da": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Xu Da"
+  },
+  "Wu Sangui": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Wu Sangui"
+  },
+  "Manchu": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Manchu"
+  },
+  "Qing Dynasty": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Qing Dynasty"
+  },
+  "Shanhaiguan": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Shanhaiguan"
+  },
+  "Li Zicheng": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001",
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 2,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Li Zicheng"
+  },
+  "Dayton": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Dayton"
+  },
+  "France": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "France"
+  },
+  "Washington, D.C.": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Washington, D.C."
+  },
+  "State Administration of Cultural Heritage": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "State Administration of Cultural Heritage"
+  },
+  "Mongol": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Mongol"
+  },
+  "North Carolina": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "North Carolina"
+  },
+  "Ohio": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Ohio"
+  },
+  "Nine Frontier Garrisons": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Nine Frontier Garrisons"
+  },
+  "Manchu Forces": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Manchu Forces"
+  },
+  "Great Wall": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Great Wall"
+  },
+  "UNESCO World Heritage Site": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "UNESCO World Heritage Site"
+  },
+  "Rebellion Led By Li Zicheng": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Rebellion Led By Li Zicheng"
+  },
+  "Rebellion": {
+    "chunk_ids": [
+      "doc-9e1a5454aaa124cfdf6e732f09b9423f-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1788940747,
+    "update_time": 1788940747,
+    "_id": "Rebellion"
+  }
+}
